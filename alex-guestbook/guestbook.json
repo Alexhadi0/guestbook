@@ -1,0 +1,17 @@
+[
+    {
+        "Namn": "Alex",
+        "Medelande": "Testar. &lt;b>vem vet input?&lt;/b>",
+        "Datum": "2021-12-08"
+    },
+    {
+        "Namn": "Alex",
+        "Medelande": "&lt;script>while(true){alert('illska!');}&lt;/script>",
+        "Datum": "2021-12-06"
+    },
+    {
+        "Namn": "Alex",
+        "Medelande": "test 2131",
+        "Datum": "2021-12-05"
+    }
+]
